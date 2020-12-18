@@ -1,2 +1,2 @@
 # The-game-Try-to-find-2-same-colors-
-Необходимо нажимать на клетки и находить одинаковые цвета.
+its made with React-create-app. Just use "npm start".
